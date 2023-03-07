@@ -29,20 +29,13 @@ spring:
 #    okta configuration for api gateway
 #okta:
 #  oauth2:
-#    issuer: https://dev-80150419.okta.com/oauth2/default
+#    issuer: https://.okta.com/oauth2/default
 #    audience: api://default
-#    client-id: 0oa8fh7v6zPhe6Cqn5d7
-#    client-secret: mQA5722GUBGiQo075E3AuPw_WnXLyKAd9u2pGLT6
+#    client-id: 
+#    client-secret: 
 #    scopes: openid, profile, email, offline_access
 
 
-#okta:
-#  oauth2:
-#    issuer: https://dev-80150419.okta.com/oauth2/default
-#    audience: api://default
-#    client-id: 0oa8fh7v6zPhe6Cqn5d7
-#    client-secret: mQA5722GUBGiQo075E3AuPw_WnXLyKAd9u2pGLT6
-#    scopes: openid, profile, email, offline_access
     
 #eureka:
 #  instance:
